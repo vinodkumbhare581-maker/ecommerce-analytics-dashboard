@@ -47,4 +47,21 @@ transactions** using PostgreSQL, Python, and Power BI.
 
 ---
 
+
+## 📸 Dashboard Screenshots
+
+### Page 1 — Executive Summary
+![Executive Summary](dashboard/page1_executive_summary.png)
+
+### Page 2 — Sales & Product
+![Sales](dashboard/page2_sales_product.png)
+
+### Page 3 — Customer Analytics
+![Customers](dashboard/page3_customer_analytics.png)
+
+### Page 4 — Operations
+![Operations](dashboard/page4_operations.png)
+
+### Page 5 — Profitability
+![Profitability](dashboard/page5_profitability.png)
 ## 📁 Project Structure
